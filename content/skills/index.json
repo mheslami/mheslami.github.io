@@ -1,0 +1,10 @@
+{
+  "title": "Technical Skills",
+  "refs":[
+    {
+      "name": "first_column",
+      "type":"md",
+      "file":"first_column.md"
+    }
+  ]
+}
